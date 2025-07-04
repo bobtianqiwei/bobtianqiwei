@@ -1,5 +1,5 @@
 ![demo](cover.gif)
-<img src="cover.gif">
+<img src="cover.gif" width="600" alt="demo GIF">
 ## Hi, I'm Bob Tianqi Wei🐈
 
 🏫 MDes in HCI @ UC Berkeley Engineering  
