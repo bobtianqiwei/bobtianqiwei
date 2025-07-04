@@ -1,18 +1,15 @@
-# 👋 Hi, I'm Bob Tianqi Wei
+## Hi, I'm Bob Tianqi Wei🐈
 
-🎓 MDes in HCI @ UC Berkeley College of Engineering  
-🧠 Researcher at Berkeley EECS | HCI, Design Tools, Creative AI  
-🎨 Designer, Musician, Technologist  
+🏫 MDes in HCI @ UC Berkeley College of Engineering  
+🔬 HCI Researcher at BiD Lab, Berkeley EECS
+💻 Design Engineer, Musician, Creative Technologist  
 
-## 🌱 Interests
-- HCI & Creativity Support Tools  
+Interests:
+- Creativity Support Tools  
 - AI + Education + Design  
-- Sonic interaction, Tangible Interfaces  
-- Inclusive Play Spaces for Neurodivergent Learners  
+- Physical Computing, Tangible User Interfaces 
 
-## 📫 Get in Touch
-- 🌐 Website: [www.bobwei.top](https://www.bobwei.top)  
-- 🐙 GitHub: [@bobtianqiwei](https://github.com/bobtianqiwei)  
-- 💼 LinkedIn: [linkedin.com/in/bobtianqiwei](https://www.linkedin.com/in/bobtianqiwei)  
+🌐 Website: [bobwei.top](https://www.bobwei.top)  
+💼 LinkedIn: [in/bobtianqiwei](https://www.linkedin.com/in/bobtianqiwei)  
+📑 Google Scholar: [Bob Tianqi Wei](https://scholar.google.com/citations?user=G1m94BIAAAAJ&hl=en)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobtianqiwei&layout=compact)
-![Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobtianqiwei&show_icons=true&theme=default)
