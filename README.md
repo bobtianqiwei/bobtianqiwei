@@ -1,5 +1,5 @@
 ![demo](cover.gif)
-## Hi, I'm Bob Tianqi Wei🐈
+## Hi, I'm Bob Tianqi Wei 🐈 ![visitors](https://komarev.com/ghpvc/?username=bobtianqiwei)
 
 🏫 MDes in HCI @ UC Berkeley Engineering  
 🔬 HCI Researcher @ BiD Lab, Berkeley EECS  
