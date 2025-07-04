@@ -5,9 +5,9 @@
 💻 Design Engineer, Musician, Creative Technologist  
 
 Interests:
-- Creativity Support Tools  
-- AI + Education + Design  
-- Physical Computing, Tangible User Interfaces 
+🎨 Creativity Support Tools  
+🤖 AI + Education + Design  
+🖲️ Physical Computing, Tangible User Interfaces 
 
 🌐 Website: [bobwei.top](https://www.bobwei.top)  
 💼 LinkedIn: [in/bobtianqiwei](https://www.linkedin.com/in/bobtianqiwei)  
