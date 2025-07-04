@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Bob Tianqi Wei (魏天祺)
 
-<!--
-**bobtianqiwei/bobtianqiwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MDes in HCI @ UC Berkeley College of Engineering  
+🧠 Researcher at Berkeley EECS | HCI, Design Tools, Creative AI  
+🎨 Designer, Musician, Technologist  
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
+- 🎼 **Sympathetic Orchestra**: AI-powered conducting education system  
+- 🎓 **EKPHRASIS**: AI tool for teaching visual design vocabulary  
+- 🧠 **Design Cognition**: Studying tacit knowledge in design practice  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Interests
+- HCI & Creativity Support Tools  
+- AI + Education + Design  
+- Sonic interaction, Tangible Interfaces  
+- Inclusive Play Spaces for Neurodivergent Learners  
+
+## 📫 Get in Touch
+- 🌐 Website: [www.bobwei.top](https://www.bobwei.top)  
+- 🐙 GitHub: [@bobtianqiwei](https://github.com/bobtianqiwei)  
+- 💼 LinkedIn: [linkedin.com/in/bobtianqiwei](https://www.linkedin.com/in/bobtianqiwei)  
+![visitors](https://komarev.com/ghpvc/?username=bobtianqiwei)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobtianqiwei&layout=compact)
+![Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobtianqiwei&show_icons=true&theme=default)
