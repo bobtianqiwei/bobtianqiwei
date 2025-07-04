@@ -1,4 +1,5 @@
 ![demo](cover.gif)
+cover.gif
 ## Hi, I'm Bob Tianqi Wei🐈
 
 🏫 MDes in HCI @ UC Berkeley Engineering  
