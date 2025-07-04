@@ -1,4 +1,4 @@
-![demo](https://github.com/bobtianqiwei/bobtianqiwei/cover.gif)
+![demo](cover.gif)
 ## Hi, I'm Bob Tianqi Wei🐈
 
 🏫 MDes in HCI @ UC Berkeley College of Engineering  
