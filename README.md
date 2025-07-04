@@ -1,7 +1,7 @@
 ## Hi, I'm Bob Tianqi Wei🐈
 
 🏫 MDes in HCI @ UC Berkeley College of Engineering  
-🔬 HCI Researcher at BiD Lab, Berkeley EECS 
+🔬 HCI Researcher at BiD Lab, Berkeley EECS  
 💻 Design Engineer, Musician, Creative Technologist  
 
 Interests:
