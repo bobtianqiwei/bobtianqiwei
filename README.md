@@ -4,7 +4,7 @@
 🔬 HCI Researcher at BiD Lab, Berkeley EECS  
 💻 Design Engineer, Musician, Creative Technologist  
 
-Interests:
+Interests:  
 🎨 Creativity Support Tools  
 🤖 AI + Education + Design  
 🖲️ Physical Computing, Tangible User Interfaces 
