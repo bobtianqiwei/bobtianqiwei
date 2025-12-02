@@ -11,7 +11,7 @@ Interests:
 🤖 AI + Education + Design  
 🖲️ Physical Computing, Tangible User Interfaces 
 
-🌐 Website: [bobwei.top](https://www.bobwei.top)  
+🌐 Website: [bobwei.top](https://bobwei.top)  
 💼 LinkedIn: [in/bobtianqiwei](https://www.linkedin.com/in/bobtianqiwei)  
 📑 Google Scholar: [Bob Tianqi Wei](https://scholar.google.com/citations?user=G1m94BIAAAAJ&hl=en)
 
