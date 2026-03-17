@@ -1,7 +1,7 @@
 ![demo](cover.gif)
 ## Hi, I'm Bob Tianqi Wei 🐈 ![visitors](https://komarev.com/ghpvc/?username=bobtianqiwei)
 
-🖥️ Frontend Engineer @ Anything AI (formerly Create)  
+🖥️ Frontend Engineer @ eTopus  
 🏫 MDes in HCI @ UC Berkeley Engineering  
 🔬 HCI Researcher @ BiD Lab, Berkeley EECS  
 💻 Design Engineer, Musician, Creative Technologist  
